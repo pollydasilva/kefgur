@@ -1,0 +1,14 @@
+
+.site-header a{
+    color: #FFC107;
+}
+
+.jumbotron{
+    background-image: url(https://image.shutterstock.com/image-photo/glass-jar-white-yogurt-fresh-600w-515056777.jpg);
+    background-repeat: none;
+    background-size: cover;
+}
+
+.container img {
+    width: 720px;
+}
